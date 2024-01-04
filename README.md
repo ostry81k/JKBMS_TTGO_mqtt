@@ -15,4 +15,4 @@ I display the received data in the Home Assistant screen:
 ![homeassistant](https://github.com/ostry81k/JKBMS_TTGO_mqtt/assets/139721177/4dd631a7-fb0e-41c5-a7c1-dfb6dcf178f8)
 
 From there can be exported to InfluxDB and passed to Grafana:
-<dashboard TBD>
+![grafana](https://github.com/ostry81k/JKBMS_TTGO_mqtt/assets/139721177/3e5a7ee2-8c0f-4d48-a7a2-4d80f6f0f3c7)
